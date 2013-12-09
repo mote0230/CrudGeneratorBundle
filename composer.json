@@ -12,8 +12,8 @@
         }
     ],
     "require": {
-        "symfony/symfony": ">2.2.0, <2.4-dev",
-        "sensio/generator-bundle": ">2.2.0, <2.4-dev",
+        "symfony/symfony": ">2.2.0, <2.5-dev",
+        "sensio/generator-bundle": ">2.2.0, <2.5-dev",
         "pagerfanta/pagerfanta": "1.0.*@dev",
         "lexik/form-filter-bundle": "1.2.*"
     },
@@ -27,7 +27,7 @@
     "target-dir": "JordiLlonch/Bundle/CrudGeneratorBundle",
     "extra": {
         "branch-alias": {
-            "dev-master": "2.3.x-dev"
+            "dev-master": "2.4.x-dev"
         }
     }
 }
